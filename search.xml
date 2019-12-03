@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Markdown语法整理记录</title>
+    <url>/2019/12/03/Markdown%E8%AF%AD%E6%B3%95%E6%95%B4%E7%90%86%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E8%B6%85%E8%84%91%E7%B3%BB%E5%88%97/%E8%B6%85%E8%84%91%C2%B7%E5%9C%B0%E5%BA%93.jpg" alt="超脑·地库"><br>时间一久就会忘记Markdown语法，看来真的老了，记忆力真要命~~干脆直接记下来好了。<br>(o´・ェ・｀o)<a id="more"></a></p>
+<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>Markdown是轻量级的标记语言，使用“#”、“+”、“*”符号来进行标记，符号后至少跟一个空格才有效。</p>
+<h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>在标题开头加“#”，标记标题，增加“#”个数对应标题级别增加，至多六级标题。</p>
+<pre><code># 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+</code></pre><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><p>使用“-”、“+”、“*”标记无序列表</p>
+<pre><code>- Red
+- Green
+- Blue
+</code></pre><h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p>使用“&gt;”标记引用字段、“&lt;&gt;”标记代码块等</p>
+<pre><code>&gt; 一级引用
+&gt; &gt; 二级引用
+&gt; &gt; &gt; 三级引用
+</code></pre><h3 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h3><p>使用一个“*”或“-”标记倾斜，两个标记加粗，“~~”标记删除。</p>
+<pre><code>**加粗文本**
+*斜体文本*
+~~删除文本~~
+</code></pre><h3 id="图片与链接"><a href="#图片与链接" class="headerlink" title="图片与链接"></a>图片与链接</h3><pre><code>图片格式： ![图片文本]（图片地址）  
+链接格式： ![链接文本]（链接地址）
+</code></pre><h3 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h3><pre><code>使用“    (四个空格)”或一个制表符标记代码块，用“<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">### 表格</span><br><span class="line">表格对齐方式</span><br><span class="line"></span><br><span class="line">	左对齐：	```:----```  </span><br><span class="line">	居中对齐：	```:----:或-----```  </span><br><span class="line">	右对齐：	```----:</span><br></pre></td></tr></table></figure>
+</code></pre><h3 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h3><pre><code>使用三个以上的“***”、“---”、“___”可以建立分割线
+</code></pre><h3 id="空格"><a href="#空格" class="headerlink" title="空格"></a>空格</h3><pre><code>使用两个空格和回车表示换行
+</code></pre><h3 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h3><pre><code>使用[^]标记脚注
+</code></pre>]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>读书笔记-《改变心理学的40项研究》</title>
     <url>/2019/02/24/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E3%80%8A%E6%94%B9%E5%8F%98%E5%BF%83%E7%90%86%E5%AD%A6%E7%9A%8440%E9%A1%B9%E7%A0%94%E7%A9%B6%E3%80%8B/</url>
     <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%94%B9%E5%8F%98%E5%BF%83%E7%90%86%E5%AD%A6%E7%9A%8440%E9%A1%B9%E7%A0%94%E7%A9%B6.jpg" alt="改变心理学的40项研究"></p>
@@ -140,44 +178,6 @@
       <tags>
         <tag>读书笔记</tag>
         <tag>科幻小说</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Markdown语法整理记录</title>
-    <url>/2018/07/26/Markdown%E8%AF%AD%E6%B3%95%E6%95%B4%E7%90%86%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E8%B6%85%E8%84%91%E7%B3%BB%E5%88%97/%E8%B6%85%E8%84%91%C2%B7%E5%9C%B0%E5%BA%93.jpg" alt="超脑·地库"><br>时间一久就会忘记Markdown语法，看来真的老了，记忆力真要命~~干脆直接记下来好了。<br>(o´・ェ・｀o)<a id="more"></a></p>
-<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>Markdown是轻量级的标记语言，使用“#”、“+”、“*”符号来进行标记，符号后至少跟一个空格才有效。</p>
-<h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>在标题开头加“#”，标记标题，增加“#”个数对应标题级别增加，至多六级标题。</p>
-<pre><code># 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
-</code></pre><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><p>使用“-”、“+”、“*”标记无序列表</p>
-<pre><code>- Red
-- Green
-- Blue
-</code></pre><h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p>使用“&gt;”标记引用字段、“&lt;&gt;”标记代码块等</p>
-<pre><code>&gt; 一级引用
-&gt; &gt; 二级引用
-&gt; &gt; &gt; 三级引用
-</code></pre><h3 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h3><p>使用一个“*”或“-”标记倾斜，两个标记加粗，“~~”标记删除。</p>
-<pre><code>**加粗文本**
-*斜体文本*
-~~删除文本~~
-</code></pre><h3 id="图片与链接"><a href="#图片与链接" class="headerlink" title="图片与链接"></a>图片与链接</h3><pre><code>图片格式： ![图片文本]（图片地址）  
-链接格式： ![链接文本]（链接地址）
-</code></pre><h3 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h3><pre><code>使用“    (四个空格)”或一个制表符标记代码块，用“<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">### 表格</span><br><span class="line">表格对齐方式</span><br><span class="line"></span><br><span class="line">	左对齐：	```:----```  </span><br><span class="line">	居中对齐：	```:----:或-----```  </span><br><span class="line">	右对齐：	```----:</span><br></pre></td></tr></table></figure>
-</code></pre><h3 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h3><pre><code>使用三个以上的“***”、“---”、“___”可以建立分割线
-</code></pre><h3 id="空格"><a href="#空格" class="headerlink" title="空格"></a>空格</h3><pre><code>使用两个空格和回车表示换行
-</code></pre><h3 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h3><pre><code>使用[^]标记脚注
-</code></pre>]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
