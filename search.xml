@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Markdown语法整理记录</title>
-    <url>/2019/12/03/Markdown%E8%AF%AD%E6%B3%95%E6%95%B4%E7%90%86%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E8%B6%85%E8%84%91%E7%B3%BB%E5%88%97/%E8%B6%85%E8%84%91%C2%B7%E5%9C%B0%E5%BA%93.jpg" alt="超脑·地库"><br>时间一久就会忘记Markdown语法，看来真的老了，记忆力真要命~~干脆直接记下来好了。<br>(o´・ェ・｀o)<a id="more"></a></p>
+    <title>MarkDown语法整理记录</title>
+    <url>/2019/12/03/MarkDown%E8%AF%AD%E6%B3%95%E6%95%B4%E7%90%86%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E5%AD%A6%E4%B9%A0/MarkDown.png" alt="MarkDown"><br>时间一久就会忘记Markdown语法，看来真的老了，记忆力真要命~~干脆直接记下来好了。<br>(o´・ェ・｀o)<a id="more"></a></p>
 <h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>Markdown是轻量级的标记语言，使用“#”、“+”、“*”符号来进行标记，符号后至少跟一个空格才有效。</p>
 <h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>在标题开头加“#”，标记标题，增加“#”个数对应标题级别增加，至多六级标题。</p>
 <pre><code># 一级标题
@@ -73,7 +73,7 @@
   <entry>
     <title>HEXO常用命令</title>
     <url>/2018/10/11/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E6%96%B0%E6%A8%A1%E6%9D%BF%E9%A1%B5%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/Hexo.jpg" alt="Hexo"></p>
+    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E5%AD%A6%E4%B9%A0/Hexo.jpg" alt="Hexo"></p>
 <p>久一点不写博客一些命令又模糊了，还是记下来吧，找的方便，嘿嘿嘿(‾◡◝)。<a id="more"></a></p>
 <h2 id="命令总结"><a href="#命令总结" class="headerlink" title="命令总结"></a>命令总结</h2><h3 id="init"><a href="#init" class="headerlink" title="init"></a>init</h3><pre><code>$ hexo init [folder]
 </code></pre><p>初始化，新建网站。如果没有设置 folder ，Hexo 默认在目前的文件夹建立网站。</p>
@@ -234,7 +234,7 @@
   <entry>
     <title>新模板页搭建心得</title>
     <url>/2018/07/24/%E6%96%B0%E6%A8%A1%E6%9D%BF%E9%A1%B5%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E6%96%B0%E6%A8%A1%E6%9D%BF%E9%A1%B5%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/Hexo.jpg" alt="Hexo"></p>
+    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E5%AD%A6%E4%B9%A0/Hexo.jpg" alt="Hexo"></p>
 <p>开始尝试搭建新的模板页，分别是“作品集”与“相册”。<a id="more"></a></p>
 <h3 id="问题点"><a href="#问题点" class="headerlink" title="问题点"></a>问题点</h3><ol>
 <li>怎么搭建新的模板页手动or命令</li>
@@ -268,7 +268,7 @@
   <entry>
     <title>Swig学习</title>
     <url>/2018/07/23/swig%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/swig%E5%AD%A6%E4%B9%A0/swig.jpg" alt="swig学习"></p>
+    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E5%AD%A6%E4%B9%A0/swig.jpg" alt="swig学习"></p>
 <p>个人博客有待完善，想写一个相册，和作品集的模板页，可是next主题下模板页的格式是Swig，什么鬼，好吧我不会只能去学习了。╮(╯▽╰)╭ <a id="more"></a></p>
 <h3 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档:"></a>参考文档:</h3><ol>
 <li><a href="http://www.iqianduan.net/blog/how_to_use_swig" target="_blank" rel="noopener">Swig 使用指南</a>  </li>
@@ -311,8 +311,8 @@
         <category>学习</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>技术</tag>
+        <tag>hexo</tag>
         <tag>Swig</tag>
       </tags>
   </entry>
