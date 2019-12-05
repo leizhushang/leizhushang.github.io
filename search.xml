@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>插画笔记</title>
+    <url>/2019/12/05/%E6%8F%92%E7%94%BB%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E5%AD%A6%E4%B9%A0/MarkDown.png" alt="插画"><br>看视频总是分心走神，做下笔记记录下~~</p>
+<h3 id="第一课形体"><a href="#第一课形体" class="headerlink" title="第一课形体"></a>第一课形体</h3><h4 id="要点："><a href="#要点：" class="headerlink" title="要点："></a>要点：</h4><p>1.通过点线（点对点）、分析临摹人物插画，锻炼形体把控能力。<br>2.脑洞大开：描摹概括形体，用脑洞或实物替换人物造型，锻炼透视形体能力。  </p>
+<h4 id="课上示范："><a href="#课上示范：" class="headerlink" title="课上示范："></a>课上示范：</h4><p>1.临摹插画人物。<br>2.描摹人物形体，换装（内衣）。</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MarkDown语法整理记录</title>
     <url>/2019/12/03/MarkDown%E8%AF%AD%E6%B3%95%E6%95%B4%E7%90%86%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<p><img src="https://junxf.oss-cn-beijing.aliyuncs.com/posts_img/%E5%AD%A6%E4%B9%A0/MarkDown.png" alt="MarkDown"><br>时间一久就会忘记Markdown语法，看来真的老了，记忆力真要命~~干脆直接记下来好了。<br>(o´・ェ・｀o)<a id="more"></a></p>
@@ -125,8 +139,8 @@
         <category>日记</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
         <tag>杂谈</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -311,8 +325,8 @@
         <category>学习</category>
       </categories>
       <tags>
-        <tag>技术</tag>
         <tag>hexo</tag>
+        <tag>技术</tag>
         <tag>Swig</tag>
       </tags>
   </entry>

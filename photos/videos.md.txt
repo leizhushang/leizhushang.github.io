@@ -1,0 +1,39 @@
+---
+title: 视频
+date: 2018-07-25 15:40:20
+type: "photos"
+comments: false
+notoc: true
+---
+<link rel="stylesheet" href="../lib/album/ins.css">
+<link rel="stylesheet" href="../lib/album/photoswipe.css"> 
+<link rel="stylesheet" href="../lib/album/default-skin/default-skin.css"> 
+<div class="photos-btn-wrap">
+    <a class="photos-btn" href="/photos/index.html">相册</a><a class="photos-btn active" href="/photos/videos.html">视频</a>
+</div>
+<center><h1>指弹_女儿情</h1></center>
+<center>
+  <div class="video-container">
+    <embed height="80%" width="80%" src="http://player.youku.com/embed/XMjUzMzY4OTM3Ng==" 
+    frameborder=0 allowfullscreen>
+  </embed>
+</div>
+</center>
+
+<center><h1>指弹_友谊地久天长</h1></center>
+<center>
+<div class="video-container">
+<embed height="80%" width="80%" src="http://player.youku.com/embed/XMjQ5MDExOTY2MA==" 
+	frameborder=0 allowfullscreen>
+</embed>
+</div>
+</center>
+
+<center><h1>指弹_Always with me</h1></center>
+<center>
+<div class="video-container">
+<embed height="80%" width="80%" src="http://player.youku.com/embed/XMjQ4MDQyNTQ0MA==" 
+	frameborder=0 allowfullscreen>
+</embed>
+</div>
+</center>
