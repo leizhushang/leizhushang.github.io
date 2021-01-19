@@ -302,9 +302,9 @@
       <category term="学习" scheme="http://www.junxf.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="hexo" scheme="http://www.junxf.com/tags/hexo/"/>
-    
       <category term="技术" scheme="http://www.junxf.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="hexo" scheme="http://www.junxf.com/tags/hexo/"/>
     
       <category term="Swig" scheme="http://www.junxf.com/tags/Swig/"/>
     
